@@ -1,0 +1,5 @@
+{
+  "prompt": "(여기에 프롬프트를 적으시오.)",
+  "negative_prompt": "흐릿함, 노이즈, 저화질",
+  "number_of_images": 1
+}
